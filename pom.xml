@@ -15,6 +15,24 @@
   </properties>
 
   <dependencies>
-
+    <!-- https://mvnrepository.com/artifact/com.nativelibs4java/bridj -->
+    <dependency>
+      <groupId>com.nativelibs4java</groupId>
+      <artifactId>bridj</artifactId>
+      <version>0.7.0</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/asm/asm -->
+    <dependency>
+      <groupId>asm</groupId>
+      <artifactId>asm</artifactId>
+      <version>3.3.1</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.osgi/org.osgi.core -->
+    <dependency>
+      <groupId>org.osgi</groupId>
+      <artifactId>org.osgi.core</artifactId>
+      <version>6.0.0</version>
+      <scope>provided</scope>
+    </dependency>
   </dependencies>
 </project>
