@@ -6,7 +6,7 @@ import org.bridj.ann.Library;
 import org.bridj.ann.Virtual;
 import org.bridj.cpp.CPPObject;
 
-@Library("thostmduserapi")
+@Library("Thostmduserapi")
 public class CThostFtdcMdSpi extends CPPObject {
     public CThostFtdcMdSpi() {
     }

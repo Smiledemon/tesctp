@@ -7,7 +7,7 @@ import org.bridj.ann.Library;
 import org.bridj.ann.Virtual;
 import org.bridj.cpp.CPPObject;
 
-@Library("thosttraderapi")
+@Library("Thosttraderapi")
 public class CThostFtdcTraderSpi extends CPPObject {
     public CThostFtdcTraderSpi() {
         BridJ.protectFromGC(this);

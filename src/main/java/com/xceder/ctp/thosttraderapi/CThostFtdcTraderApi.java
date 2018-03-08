@@ -10,7 +10,7 @@ import org.bridj.ann.Ptr;
 import org.bridj.ann.Virtual;
 import org.bridj.cpp.CPPObject;
 
-@Library("thosttraderapi")
+@Library("Thosttraderapi")
 public class CThostFtdcTraderApi extends CPPObject {
     public CThostFtdcTraderApi() {
     }

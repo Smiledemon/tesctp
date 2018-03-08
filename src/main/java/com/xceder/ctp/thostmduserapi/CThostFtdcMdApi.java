@@ -6,7 +6,7 @@ import org.bridj.Pointer;
 import org.bridj.ann.*;
 import org.bridj.cpp.CPPObject;
 
-@Library("thostmduserapi")
+@Library("Thostmduserapi")
 public class CThostFtdcMdApi extends CPPObject {
     public CThostFtdcMdApi() {
     }

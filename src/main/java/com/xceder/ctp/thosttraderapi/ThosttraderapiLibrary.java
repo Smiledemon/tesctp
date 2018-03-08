@@ -5,7 +5,7 @@ import org.bridj.ann.Library;
 import org.bridj.ann.Runtime;
 import org.bridj.cpp.CPPRuntime;
 
-@Library("src/main/java/com/xceder/ctp/lib/thosttraderapi")
+@Library("Thosttraderapi")
 @Runtime(CPPRuntime.class)
 public class ThosttraderapiLibrary {
     static {
